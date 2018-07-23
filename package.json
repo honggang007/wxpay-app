@@ -1,0 +1,65 @@
+{
+  "_from": "wechatpay",
+  "_id": "wechatpay@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-z4g4EahbqAdC6izFUcJTFATmaGo=",
+  "_location": "/wechatpay",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "wechatpay",
+    "name": "wechatpay",
+    "escapedName": "wechatpay",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/wechatpay/download/wechatpay-0.2.0.tgz",
+  "_shasum": "cf883811a85ba80742ea2cc551c2531404e6686a",
+  "_spec": "wechatpay",
+  "_where": "E:\\node\\yjkzb\\student-api",
+  "author": {
+    "name": "Flitto Inc."
+  },
+  "bugs": {
+    "url": "https://github.com/flitto/wechatpay/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "md5": "^2.2.1",
+    "qr-image": "^3.2.0",
+    "request": "^2.83.0",
+    "xml2js": "^0.4.19"
+  },
+  "deprecated": false,
+  "description": "wechatpay library",
+  "devDependencies": {
+    "mocha": "^5.0.0",
+    "should": "^13.2.1"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "homepage": "https://github.com/flitto/wechatpay#readme",
+  "keywords": [
+    "flitto",
+    "wechat",
+    "wechatpay"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "wechatpay",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flitto/wechatpay.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "0.2.0"
+}
